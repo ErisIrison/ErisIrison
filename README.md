@@ -1,4 +1,4 @@
--This is Iris Lui's github to demonstrate some side project I developed
+-This is Iris Lui's github to demonstrate some side projects I developed
 
 -Most of them are practice only
 
@@ -11,9 +11,9 @@
 
   Python 
   
-  C++ / C#
+  C++ / C 
   
-  HTML/CSS (high school level)
+  JavaScript / TypeScript (with React) / HTML / CSS
   
   Java
   
